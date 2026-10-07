@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{DED30DEA-0D16-4ECE-8619-760DC751FE86}|PR05\\PR05.vcxproj|C:\\Users\\roman\\OneDrive\\S Student\\PR05\\PR05\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DED30DEA-0D16-4ECE-8619-760DC751FE86}|PR05\\PR05.vcxproj|solutionrelative:PR05\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1553721-B2EC-74F5-CF03-411C97FB6BB1}|UnitTest05.0\\UnitTest05.0.vcxproj|C:\\Users\\roman\\OneDrive\\S Student\\PR05\\UnitTest05.0\\UnitTest05.0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1553721-B2EC-74F5-CF03-411C97FB6BB1}|UnitTest05.0\\UnitTest05.0.vcxproj|solutionrelative:UnitTest05.0\\UnitTest05.0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,13 +34,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest05.0.cpp",
+              "DocumentMoniker": "C:\\Users\\roman\\OneDrive\\S Student\\PR05\\UnitTest05.0\\UnitTest05.0.cpp",
+              "RelativeDocumentMoniker": "UnitTest05.0\\UnitTest05.0.cpp",
+              "ToolTip": "C:\\Users\\roman\\OneDrive\\S Student\\PR05\\UnitTest05.0\\UnitTest05.0.cpp",
+              "RelativeToolTip": "UnitTest05.0\\UnitTest05.0.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-07T22:39:53.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FileName.cpp",
               "DocumentMoniker": "C:\\Users\\roman\\OneDrive\\S Student\\PR05\\PR05\\FileName.cpp",
               "RelativeDocumentMoniker": "PR05\\FileName.cpp",
               "ToolTip": "C:\\Users\\roman\\OneDrive\\S Student\\PR05\\PR05\\FileName.cpp",
               "RelativeToolTip": "PR05\\FileName.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-10-07T22:27:19.497Z",
               "EditorCaption": ""
