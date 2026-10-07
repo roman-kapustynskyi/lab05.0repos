@@ -3,5 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="PR05/PR05.vcxproj" />
+  <Project Path="PR05/PR05.vcxproj" Id="ded30dea-0d16-4ece-8619-760dc751fe86" />
+  <Project Path="UnitTest05.0/UnitTest05.0.vcxproj" />
 </Solution>
